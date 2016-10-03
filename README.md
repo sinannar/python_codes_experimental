@@ -1,1 +1,3 @@
 # python_codes_experimental
+
+I start to use python when I got lectured Data Science. So I am putting all codes I am going to use for assignment 4. Not the implementation of assignment itself, more less helpers...
